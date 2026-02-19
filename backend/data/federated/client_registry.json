@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "client_1",
+        "file": "client_1.csv",
+        "sample_size": 252
+    },
+    {
+        "id": "2",
+        "name": "client_2",
+        "file": "client_2.csv",
+        "sample_size": 222
+    },
+    {
+        "id": "3",
+        "name": "client_3",
+        "file": "client_3.csv",
+        "sample_size": 261
+    },
+    {
+        "id": "4",
+        "name": "client_4",
+        "file": "client_4.csv",
+        "sample_size": 246
+    },
+    {
+        "id": "5",
+        "name": "client_5",
+        "file": "client_5.csv",
+        "sample_size": 190
+    },
+    {
+        "id": "6",
+        "name": "client_6",
+        "file": "client_6.csv",
+        "sample_size": 271
+    },
+    {
+        "id": "7",
+        "name": "client_7",
+        "file": "client_7.csv",
+        "sample_size": 251
+    },
+    {
+        "id": "8",
+        "name": "client_8",
+        "file": "client_8.csv",
+        "sample_size": 253
+    },
+    {
+        "id": "9",
+        "name": "client_9",
+        "file": "client_9.csv",
+        "sample_size": 193
+    },
+    {
+        "id": "10",
+        "name": "client_10",
+        "file": "client_10.csv",
+        "sample_size": 223
+    }
+]
