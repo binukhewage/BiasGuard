@@ -46,9 +46,7 @@ function App() {
         {/* HEADER */}
         <header className="flex flex-col md:flex-row justify-between items-center mb-8 border-b border-slate-800 pb-6 pt-5">
           <div className="flex items-center gap-4 mb-4 md:mb-0">
-            <div className="p-3 bg-slate-900 rounded-lg border border-slate-700 shadow-lg shadow-emerald-500/10">
-              <ShieldCheck size={32} className="text-emerald-400" />
-            </div>
+            
             <div>
               <h1 className="text-3xl font-bold text-white tracking-tight">BiasGuard</h1>
               <p className="text-slate-400 text-sm font-medium">Federated ICU Analytics Framework</p>
